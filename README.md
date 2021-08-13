@@ -6,13 +6,13 @@
 
 ## Table of Contents
 
-- [Installation](#Installation)
-- [Using it](#Using)
+- [Install](#Install)
+- [Usage](#Usage)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Installation
+## Install
 
 ### Clone
 
